@@ -26,7 +26,7 @@ It's fairly straightforward.
 
 - link:https://www.google.ca/chrome/browser/features.html[Get Chrome]
 - install *gdebi*
-- link:ey71cw1b.instances.httpworkbench.com[test me]
+- link:https://ey71cw1b.instances.httpworkbench.com[test me]
 
 > apt-get install gdebi
 
